@@ -849,7 +849,7 @@
   "email": 0,
   "export": 0,
   "if_owner": 0,
-  "import": 0,
+  "import": 1,
   "modified": "2024-07-31 09:57:25.646973",
   "name": "2ou8i3qg4a",
   "parent": "Expense Claim",
